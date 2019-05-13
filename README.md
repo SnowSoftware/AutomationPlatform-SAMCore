@@ -1,2 +1,5 @@
 # AutomationPlatform-SAMCore
-This module is created for Snow Automation Platform, when using the automationbook SAM Automation.
+This module is created for Snow Automation Platform with SAM Automation.
+It contains functions for importing services from Snow License Manager, reharvest and communication with external deployment tools.
+
+This module was primarily created to use with SAM Automation, version 2.5 and above.
